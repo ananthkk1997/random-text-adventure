@@ -1,3 +1,4 @@
 # random-text-adventure
-This is something
-setting up cache
+This is something\n
+setting up cache\n
+another cache test
