@@ -7,7 +7,21 @@
 
 
 class Player {
+public:
+    const int initPlayerPosition=0;
+    int PlayerHealth;
+    int currPlayerPosition;
+    bool isAlive=true;
 
+    int resetPlayerPosition(){
+    currPlayerPosition=0;
+    }
+    int PlayerDeath(){
+        if (PlayerHealth=0){
+            isAlive=false;
+            return isAlive;
+        }
+    }
 };
 
 
