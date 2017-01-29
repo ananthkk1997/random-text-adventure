@@ -1,0 +1,9 @@
+//
+// Created by ananth on 1/28/17.
+//
+
+#ifndef RANDOM_TEXT_ADVENTURE_PLACE_H
+#define RANDOM_TEXT_ADVENTURE_PLACE_H
+
+
+#endif //RANDOM_TEXT_ADVENTURE_PLACE_H
